@@ -68,13 +68,9 @@ This project is licensed under the terms of the [MIT](LICENSE). Please see the [
 ## 🔗 Contact
 If you have any questions, suggestions, or feedback, please feel free to reach out to us:
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dribbble.com/Kashif420)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-ahmad-b42541250/)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-kashif-442146214/)
-
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KaxhifKhan)
-
-Email: mrkashi2020@gmail.com
+Email: osamajn6@gmail.com
 
 ## Used By
 
